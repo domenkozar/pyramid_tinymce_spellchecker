@@ -12,7 +12,7 @@ def read(*rnames):
 
 setup(
     name='pyramid_tinymce_spellchecker',
-    version='0.1.dev0',
+    version='0.1',
     description='Pyramid glue for different tinymce spellchecker backends',
     long_description=read('README.rst') +
                      read('HISTORY.rst') +
